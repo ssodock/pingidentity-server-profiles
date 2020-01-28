@@ -17,7 +17,7 @@ objectClass: organizationalPerson
 objectClass: inetOrgPerson
 objectClass: pf-connected-identities
 sn: Seawell
-cn: Esko Seawell
+cn: Roberto Ping
 uid: user.1
 userPassword: 2FederateM0re
 pf-connected-identity: auth-source=pf-local-identity:user-id=user.1
