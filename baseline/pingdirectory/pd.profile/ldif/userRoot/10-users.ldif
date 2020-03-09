@@ -4,8 +4,8 @@ objectClass: person
 objectClass: organizationalPerson
 objectClass: inetOrgPerson
 objectClass: pf-connected-identities
-sn: Brooke
-cn: Raeann Brooke
+sn: Strauss
+cn: Les
 uid: user.0
 userPassword: 2FederateM0re
 pf-connected-identity: auth-source=pf-local-identity:user-id=user.0
@@ -16,8 +16,8 @@ objectClass: person
 objectClass: organizationalPerson
 objectClass: inetOrgPerson
 objectClass: pf-connected-identities
-sn: Seawell
-cn: Roberto Ping
+sn: Strahan
+cn: Michael Strahan
 uid: user.1
 userPassword: 2FederateM0re
 pf-connected-identity: auth-source=pf-local-identity:user-id=user.1
@@ -29,7 +29,7 @@ objectClass: organizationalPerson
 objectClass: inetOrgPerson
 objectClass: pf-connected-identities
 sn: Tancordo
-cn: Sidonia Tancordo
+cn: Samual Smith
 uid: user.2
 userPassword: 2FederateM0re
 pf-connected-identity: auth-source=pf-local-identity:user-id=user.2
